@@ -38,8 +38,8 @@ git clone https://github.com/gwen001/github-stargazer
 
 ---
 
-<img src="https://raw.githubusercontent.com/gwen001/graphql-introspection-analyzer/main/overall-progress.png">
-<img src="https://raw.githubusercontent.com/gwen001/graphql-introspection-analyzer/main/daily-progress.png">
+<img src="https://raw.githubusercontent.com/gwen001/github-stargazer/main/overall-progress.png">
+<img src="https://raw.githubusercontent.com/gwen001/github-stargazer/main/daily-progress.png">
 
 ---
 
