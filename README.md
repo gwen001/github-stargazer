@@ -3,6 +3,7 @@
 <h4 align="center">View stars evolution of GitHub repositories.</h4>
 
 <p align="center">
+    <img src="https://img.shields.io/badge/python-v3-blue" alt="python badge">
     <img src="https://img.shields.io/badge/php-blue" alt="php badge">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT license badge">
     <a href="https://twitter.com/intent/tweet?text=https%3a%2f%2fgithub.com%2fgwen001%2fgithub-stargazer%2f" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fgwen001%2Fgithub-stargazer" alt="twitter badge"></a>
@@ -18,7 +19,7 @@
 
 ## Description
 
-This PHP tool grabs repositories data to create a graphical representation of the evolution of stars.
+This PHP/Python tool grabs repositories data to create a graphical representation of the evolution of stars.
 
 ## Install
 
